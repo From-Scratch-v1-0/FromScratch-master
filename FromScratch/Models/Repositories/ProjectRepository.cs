@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 
 namespace FromScratch.Models.Repositories
 {
+    //NewRepository//
+    //მოკლედ პროექტებისთვის შევქმენი ახალი რეფოზითორი!!//
     public interface IProjectRepository
     {
         void AddProject(ProjectProduct projprod);
